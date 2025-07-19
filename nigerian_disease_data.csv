@@ -1,0 +1,17 @@
+Week,State,Malaria,Cholera,Lassa Fever,COVID-19
+Week 1,Lagos,150,30,10,60
+Week 1,Abuja,140,25,8,55
+Week 1,Kano,130,28,6,50
+Week 1,Kaduna,125,22,9,40
+Week 2,Lagos,160,35,11,70
+Week 2,Abuja,150,30,10,65
+Week 2,Kano,135,27,7,45
+Week 2,Kaduna,120,20,6,38
+Week 3,Lagos,170,32,12,75
+Week 3,Abuja,155,29,9,68
+Week 3,Kano,140,26,8,49
+Week 3,Kaduna,130,21,7,42
+Week 4,Lagos,180,34,13,80
+Week 4,Abuja,160,31,10,70
+Week 4,Kano,145,29,9,55
+Week 4,Kaduna,135,22,8,44
