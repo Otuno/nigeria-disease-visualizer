@@ -6,6 +6,8 @@ This project uses a small mock dataset of disease case counts across Nigerian st
 - Pie chart of total disease proportions
 - Bar chart of disease counts by state
 - Line graph of COVID-19 case trends by week
+![Sample Visualization](screenshot.png)
+
 
 ## Tools Used
 - Python
