@@ -20,13 +20,13 @@ The **Nigeria Disease Visualizer** is a research-inspired tool visualizing disea
 
 ## 📸 Sample Visualizations
 
-![Sample Visualization](bar_chart.png)
+![Sample Visualization](assets/bar_chart.png)
 *Figure 1: Bar chart showing total cases per disease or per state*
 
-![Sample Visualization](line_graph.png) 
+![Sample Visualization](assets/line_graph.png) 
 *Figure 2: Line chart showing COVID‑19 trends over weeks*
 
-![Sample Visualization](pie_chart.png) 
+![Sample Visualization](assets/pie_chart.png) 
 *Figure 3: Pie chart of disease proportions*
 
 ---
