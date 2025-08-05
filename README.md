@@ -1,4 +1,4 @@
-# 🇳🇬 Nigeria Disease Visualizer 🦠📊
+# Nigeria Disease Visualizer 🦠📊🇳🇬
 
 A data visualization project that simulates the spread of diseases across Nigeria’s states using Python, Pandas, and Matplotlib.
 
@@ -61,24 +61,6 @@ The **Nigeria Disease Visualizer** is a research-inspired tool visualizing disea
 
 ---
 
-## 📁 Project Structure
-nigeria-disease-visualizer/
-├── data/
-│ └── disease_data.csv
-├── notebooks/
-│ └── disease_analysis.ipynb
-├── app/
-│ └── streamlit_app.py
-├── assets/
-│ └── screenshots/
-│ ├── bar_chart.png
-│ ├── line_trend.png
-│ └── pie_distribution.png
-├── requirements.txt
-└── README.md
-
----
-
 ## Future Improvements
 
 - Integrate real NCDC or WHO data
@@ -100,4 +82,5 @@ LinkedIn: [David Otuno](https://www.linkedin.com/in/david-otuno-785a29371)
 ## 🙏 Acknowledgements
 
 Inspired by public health data projects and global outbreak visualizations. Thanks to peers and mentors who inspired this work.
+
 
