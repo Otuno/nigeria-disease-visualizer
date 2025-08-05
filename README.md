@@ -4,13 +4,13 @@ A data visualization project that simulates the spread of diseases across Nigeri
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Nigeria Disease Visualizer** is a research-inspired tool visualizing disease case trends across Nigerian states. Ideal for exploring infection patterns and informing public health analysis.
 
 ---
 
-## 🧠 Features
+## Features
 
 - Visualizes simulated disease counts across states  
 - Includes bar charts, pie charts, and trend analysis  
@@ -18,17 +18,17 @@ The **Nigeria Disease Visualizer** is a research-inspired tool visualizing disea
 
 ---
 
-## 📸 Sample Visualizations
+## Sample Visualizations
 
-![Sample Visualization](assets/bar_chart.png)
+![Sample Visualization](assets/screenshots/bar_chart.png)
 
 *Figure 1: Bar chart showing total cases per disease or per state*
 
-![Sample Visualization](assets/line_graph.png) 
+![Sample Visualization](assets/screenshots/line_graph.png) 
 
 *Figure 2: Line chart showing COVID‑19 trends over weeks*
 
-![Sample Visualization](assets/pie_chart.png) 
+![Sample Visualization](assets/screenshots/pie_chart.png) 
 
 *Figure 3: Pie chart of disease proportions*
 
@@ -45,9 +45,9 @@ The **Nigeria Disease Visualizer** is a research-inspired tool visualizing disea
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
-### 🟢 Option 1: Run in Google Colab
+### ⚙️ Option 1: Run in Google Colab
 1. Click the **Open in Colab** badge (or go to Colab manually)  
 2. Upload `disease_data.csv`  
 3. Run all cells to generate the visualizations  
@@ -79,7 +79,7 @@ nigeria-disease-visualizer/
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 
 - Integrate real NCDC or WHO data
 - Add predictive analytics (e.g., trend forecasts)
@@ -100,3 +100,4 @@ LinkedIn: [David Otuno](https://www.linkedin.com/in/david-otuno-785a29371)
 ## 🙏 Acknowledgements
 
 Inspired by public health data projects and global outbreak visualizations. Thanks to peers and mentors who inspired this work.
+
